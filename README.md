@@ -1,4 +1,4 @@
-# c64cord
+# `LOAD "DISCORD",8,1`
 commodore 64 theme for discord
 
 ## installing
